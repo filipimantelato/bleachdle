@@ -1,0 +1,1990 @@
+[
+  {
+    "id": 1,
+    "name": "Ichigo Kurosaki",
+    "aliases": [
+      "Ichigo",
+      "Kurosaki"
+    ],
+    "gender": "Male",
+    "ageGroup": "0-100",
+    "race": [
+      "Human",
+      "Shinigami",
+      "Quincy",
+      "Hollow"
+    ],
+    "height": 181,
+    "hairColor": "Orange",
+    "firstLocation": "Karakura Town",
+    "status": "Alive",
+    "image": "assets/images/icons/ichigo_kurosaki.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Rukia Kuchiki",
+    "aliases": [
+      "Rukia"
+    ],
+    "gender": "Female",
+    "ageGroup": "101-500",
+    "race": [
+      "Shinigami"
+    ],
+    "height": 144,
+    "hairColor": "Black",
+    "firstLocation": "Karakura Town",
+    "status": "Alive",
+    "image": "assets/images/icons/rukia_kuchiki.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Orihime Inoue",
+    "aliases": [
+      "Orihime"
+    ],
+    "gender": "Female",
+    "ageGroup": "0-100",
+    "race": [
+      "Human"
+    ],
+    "height": 157,
+    "hairColor": "Orange",
+    "firstLocation": "Karakura Town",
+    "status": "Alive",
+    "image": "assets/images/icons/orihime_inoue.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Uryu Ishida",
+    "aliases": [
+      "Uryu",
+      "Ishida"
+    ],
+    "gender": "Male",
+    "ageGroup": "0-100",
+    "race": [
+      "Quincy"
+    ],
+    "height": 177,
+    "hairColor": "Black",
+    "firstLocation": "Karakura Town",
+    "status": "Alive",
+    "image": "assets/images/icons/uryu_ishida.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Yasutora Sado",
+    "aliases": [
+      "Chad",
+      "Sado"
+    ],
+    "gender": "Male",
+    "ageGroup": "0-100",
+    "race": [
+      "Human"
+    ],
+    "height": 197,
+    "hairColor": "Brown",
+    "firstLocation": "Karakura Town",
+    "status": "Alive",
+    "image": "assets/images/icons/yasutora_sado.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Renji Abarai",
+    "aliases": [
+      "Renji"
+    ],
+    "gender": "Male",
+    "ageGroup": "101-500",
+    "race": [
+      "Shinigami"
+    ],
+    "height": 188,
+    "hairColor": "Red",
+    "firstLocation": "Soul Society",
+    "status": "Alive",
+    "image": "assets/images/icons/renji_abarai.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Kisuke Urahara",
+    "aliases": [
+      "Urahara"
+    ],
+    "gender": "Male",
+    "ageGroup": "101-500",
+    "race": [
+      "Shinigami"
+    ],
+    "height": 183,
+    "hairColor": "Blonde",
+    "firstLocation": "Karakura Town",
+    "status": "Alive",
+    "image": "assets/images/icons/kisuke_urahara.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Yoruichi Shihoin",
+    "aliases": [
+      "Yoruichi"
+    ],
+    "gender": "Female",
+    "ageGroup": "101-500",
+    "race": [
+      "Shinigami"
+    ],
+    "height": 156,
+    "hairColor": "Purple",
+    "firstLocation": "Karakura Town",
+    "status": "Alive",
+    "image": "assets/images/icons/yoruichi_shihoin.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Genryusai Shigekuni Yamamoto",
+    "aliases": [
+      "Yamamoto"
+    ],
+    "gender": "Male",
+    "ageGroup": "501+",
+    "race": [
+      "Shinigami"
+    ],
+    "height": 168,
+    "hairColor": "Bald",
+    "firstLocation": "Soul Society",
+    "status": "Deceased",
+    "image": "assets/images/icons/genryusai_shigekuni_yamamoto.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Byakuya Kuchiki",
+    "aliases": [
+      "Byakuya"
+    ],
+    "gender": "Male",
+    "ageGroup": "101-500",
+    "race": [
+      "Shinigami"
+    ],
+    "height": 180,
+    "hairColor": "Black",
+    "firstLocation": "Soul Society",
+    "status": "Alive",
+    "image": "assets/images/icons/byakuya_kuchiki.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Soshuke Aizen",
+    "aliases": [
+      "Aizen"
+    ],
+    "gender": "Male",
+    "ageGroup": "101-500",
+    "race": [
+      "Shinigami"
+    ],
+    "height": 186,
+    "hairColor": "Brown",
+    "firstLocation": "Soul Society",
+    "status": "Alive",
+    "image": "assets/images/icons/soshuke_aizen.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Toshiro Hitsugaya",
+    "aliases": [
+      "Hitsugaya"
+    ],
+    "gender": "Male",
+    "ageGroup": "101-500",
+    "race": [
+      "Shinigami"
+    ],
+    "height": 133,
+    "hairColor": "White",
+    "firstLocation": "Soul Society",
+    "status": "Alive",
+    "image": "assets/images/icons/toshiro_hitsugaya.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Kenpachi Zaraki",
+    "aliases": [
+      "Kenpachi",
+      "Zaraki"
+    ],
+    "gender": "Male",
+    "ageGroup": "101-500",
+    "race": [
+      "Shinigami"
+    ],
+    "height": 202,
+    "hairColor": "Black",
+    "firstLocation": "Soul Society",
+    "status": "Alive",
+    "image": "assets/images/icons/kenpachi_zaraki.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Shunsui Kyoraku",
+    "aliases": [
+      "Shunsui",
+      "Kyoraku"
+    ],
+    "gender": "Male",
+    "ageGroup": "501+",
+    "race": [
+      "Shinigami"
+    ],
+    "height": 192,
+    "hairColor": "Brown",
+    "firstLocation": "Soul Society",
+    "status": "Alive",
+    "image": "assets/images/icons/shunsui_kyoraku.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Jushiro Ukitake",
+    "aliases": [
+      "Ukitake"
+    ],
+    "gender": "Male",
+    "ageGroup": "501+",
+    "race": [
+      "Shinigami"
+    ],
+    "height": 187,
+    "hairColor": "White",
+    "firstLocation": "Soul Society",
+    "status": "Deceased",
+    "image": "assets/images/icons/jushiro_ukitake.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Gin Ichimaru",
+    "aliases": [
+      "Gin"
+    ],
+    "gender": "Male",
+    "ageGroup": "101-500",
+    "race": [
+      "Shinigami"
+    ],
+    "height": 185,
+    "hairColor": "Silver",
+    "firstLocation": "Soul Society",
+    "status": "Deceased",
+    "image": "assets/images/icons/gin_ichimaru.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Kaname Tosen",
+    "aliases": [
+      "Tosen"
+    ],
+    "gender": "Male",
+    "ageGroup": "101-500",
+    "race": [
+      "Shinigami"
+    ],
+    "height": 176,
+    "hairColor": "Purple",
+    "firstLocation": "Soul Society",
+    "status": "Deceased",
+    "image": "assets/images/icons/kaname_tosen.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Mayuri Kurotsuchi",
+    "aliases": [
+      "Mayuri"
+    ],
+    "gender": "Male",
+    "ageGroup": "101-500",
+    "race": [
+      "Shinigami"
+    ],
+    "height": 174,
+    "hairColor": "Blue",
+    "firstLocation": "Soul Society",
+    "status": "Alive",
+    "image": "assets/images/icons/mayuri_kurotsuchi.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Retsu Unohana",
+    "aliases": [
+      "Unohana",
+      "Yachiru"
+    ],
+    "gender": "Female",
+    "ageGroup": "501+",
+    "race": [
+      "Shinigami"
+    ],
+    "height": 159,
+    "hairColor": "Black",
+    "firstLocation": "Soul Society",
+    "status": "Deceased",
+    "image": "assets/images/icons/retsu_unohana.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Shinji Hirako",
+    "aliases": [
+      "Shinji"
+    ],
+    "gender": "Male",
+    "ageGroup": "101-500",
+    "race": [
+      "Shinigami",
+      "Visored"
+    ],
+    "height": 176,
+    "hairColor": "Blonde",
+    "firstLocation": "Karakura Town",
+    "status": "Alive",
+    "image": "assets/images/icons/shinji_hirako.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Sajin Komamura",
+    "aliases": [
+      "Komamura"
+    ],
+    "gender": "Male",
+    "ageGroup": "101-500",
+    "race": [
+      "Shinigami",
+      "Wolf-Man"
+    ],
+    "height": 288,
+    "hairColor": "Brown",
+    "firstLocation": "Soul Society",
+    "status": "Alive",
+    "image": "assets/images/icons/sajin_komamura.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Soifon",
+    "aliases": [
+      "Sui-Feng"
+    ],
+    "gender": "Female",
+    "ageGroup": "101-500",
+    "race": [
+      "Shinigami"
+    ],
+    "height": 150,
+    "hairColor": "Black",
+    "firstLocation": "Soul Society",
+    "status": "Alive",
+    "image": "assets/images/icons/soifon.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Rangiku Matsumoto",
+    "aliases": [
+      "Rangiku"
+    ],
+    "gender": "Female",
+    "ageGroup": "101-500",
+    "race": [
+      "Shinigami"
+    ],
+    "height": 172,
+    "hairColor": "Blonde",
+    "firstLocation": "Soul Society",
+    "status": "Alive",
+    "image": "assets/images/icons/rangiku_matsumoto.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Momo Hinamori",
+    "aliases": [
+      "Momo"
+    ],
+    "gender": "Female",
+    "ageGroup": "101-500",
+    "race": [
+      "Shinigami"
+    ],
+    "height": 151,
+    "hairColor": "Black",
+    "firstLocation": "Soul Society",
+    "status": "Alive",
+    "image": "assets/images/icons/momo_hinamori.jpg"
+  },
+  {
+    "id": 25,
+    "name": "Izuru Kira",
+    "aliases": [
+      "Izuru"
+    ],
+    "gender": "Male",
+    "ageGroup": "101-500",
+    "race": [
+      "Shinigami"
+    ],
+    "height": 173,
+    "hairColor": "Blonde",
+    "firstLocation": "Soul Society",
+    "status": "Alive",
+    "image": "assets/images/icons/izuru_kira.jpg"
+  },
+  {
+    "id": 26,
+    "name": "Shuhei Hisagi",
+    "aliases": [
+      "Shuhei"
+    ],
+    "gender": "Male",
+    "ageGroup": "101-500",
+    "race": [
+      "Shinigami"
+    ],
+    "height": 181,
+    "hairColor": "Black",
+    "firstLocation": "Soul Society",
+    "status": "Alive",
+    "image": "assets/images/icons/shuhei_hisagi.jpg"
+  },
+  {
+    "id": 27,
+    "name": "Ikkaku Madarame",
+    "aliases": [
+      "Ikkaku"
+    ],
+    "gender": "Male",
+    "ageGroup": "101-500",
+    "race": [
+      "Shinigami"
+    ],
+    "height": 182,
+    "hairColor": "Bald",
+    "firstLocation": "Soul Society",
+    "status": "Alive",
+    "image": "assets/images/icons/ikkaku_madarame.jpg"
+  },
+  {
+    "id": 28,
+    "name": "Yumichika Ayasegawa",
+    "aliases": [
+      "Yumichika"
+    ],
+    "gender": "Male",
+    "ageGroup": "101-500",
+    "race": [
+      "Shinigami"
+    ],
+    "height": 169,
+    "hairColor": "Black",
+    "firstLocation": "Soul Society",
+    "status": "Alive",
+    "image": "assets/images/icons/yumichika_ayasegawa.jpg"
+  },
+  {
+    "id": 29,
+    "name": "Nanao Ise",
+    "aliases": [
+      "Nanao"
+    ],
+    "gender": "Female",
+    "ageGroup": "101-500",
+    "race": [
+      "Shinigami"
+    ],
+    "height": 164,
+    "hairColor": "Black",
+    "firstLocation": "Soul Society",
+    "status": "Alive",
+    "image": "assets/images/icons/nanao_ise.jpg"
+  },
+  {
+    "id": 30,
+    "name": "Nemu Kurotsuchi",
+    "aliases": [
+      "Nemu"
+    ],
+    "gender": "Female",
+    "ageGroup": "0-100",
+    "race": [
+      "Artificial Soul",
+      "Shinigami"
+    ],
+    "height": 167,
+    "hairColor": "Purple",
+    "firstLocation": "Soul Society",
+    "status": "Deceased",
+    "image": "assets/images/icons/nemu_kurotsuchi.jpg"
+  },
+  {
+    "id": 31,
+    "name": "Yachiru Kusajishi",
+    "aliases": [
+      "Yachiru"
+    ],
+    "gender": "Female",
+    "ageGroup": "101-500",
+    "race": [
+      "Shinigami"
+    ],
+    "height": 109,
+    "hairColor": "Pink",
+    "firstLocation": "Soul Society",
+    "status": "Deceased",
+    "image": "assets/images/icons/yachiru_kusajishi.jpg"
+  },
+  {
+    "id": 32,
+    "name": "Chojiro Sasakibe",
+    "aliases": [
+      "Chojiro"
+    ],
+    "gender": "Male",
+    "ageGroup": "501+",
+    "race": [
+      "Shinigami"
+    ],
+    "height": 179,
+    "hairColor": "Silver",
+    "firstLocation": "Soul Society",
+    "status": "Deceased",
+    "image": "assets/images/icons/chojiro_sasakibe.jpg"
+  },
+  {
+    "id": 33,
+    "name": "Isane Kotetsu",
+    "aliases": [
+      "Isane"
+    ],
+    "gender": "Female",
+    "ageGroup": "101-500",
+    "race": [
+      "Shinigami"
+    ],
+    "height": 187,
+    "hairColor": "Silver",
+    "firstLocation": "Soul Society",
+    "status": "Alive",
+    "image": "assets/images/icons/isane_kotetsu.jpg"
+  },
+  {
+    "id": 34,
+    "name": "Marechiyo Omaeda",
+    "aliases": [
+      "Omaeda"
+    ],
+    "gender": "Male",
+    "ageGroup": "101-500",
+    "race": [
+      "Shinigami"
+    ],
+    "height": 210,
+    "hairColor": "Black",
+    "firstLocation": "Soul Society",
+    "status": "Alive",
+    "image": "assets/images/icons/marechiyo_omaeda.jpg"
+  },
+  {
+    "id": 35,
+    "name": "Sentaro Kotsubaki",
+    "aliases": [
+      "Sentaro"
+    ],
+    "gender": "Male",
+    "ageGroup": "101-500",
+    "race": [
+      "Shinigami"
+    ],
+    "height": 168,
+    "hairColor": "Brown",
+    "firstLocation": "Soul Society",
+    "status": "Alive",
+    "image": "assets/images/icons/sentaro_kotsubaki.jpg"
+  },
+  {
+    "id": 36,
+    "name": "Kaien Shiba",
+    "aliases": [
+      "Kaien"
+    ],
+    "gender": "Male",
+    "ageGroup": "101-500",
+    "race": [
+      "Shinigami"
+    ],
+    "height": 183,
+    "hairColor": "Black",
+    "firstLocation": "Soul Society",
+    "status": "Deceased",
+    "image": "assets/images/icons/kaien_shiba.jpg"
+  },
+  {
+    "id": 37,
+    "name": "Hiyori Sarugaki",
+    "aliases": [
+      "Hiyori"
+    ],
+    "gender": "Female",
+    "ageGroup": "101-500",
+    "race": [
+      "Shinigami",
+      "Visored"
+    ],
+    "height": 133,
+    "hairColor": "Blonde",
+    "firstLocation": "Karakura Town",
+    "status": "Alive",
+    "image": "assets/images/icons/hiyori_sarugaki.jpg"
+  },
+  {
+    "id": 38,
+    "name": "Hachigen Ushoda",
+    "aliases": [
+      "Hachi"
+    ],
+    "gender": "Male",
+    "ageGroup": "101-500",
+    "race": [
+      "Shinigami",
+      "Visored"
+    ],
+    "height": 257,
+    "hairColor": "Pink",
+    "firstLocation": "Karakura Town",
+    "status": "Alive",
+    "image": "assets/images/icons/hachigen_ushoda.jpg"
+  },
+  {
+    "id": 39,
+    "name": "Love Aikawa",
+    "aliases": [
+      "Love"
+    ],
+    "gender": "Male",
+    "ageGroup": "101-500",
+    "race": [
+      "Shinigami",
+      "Visored"
+    ],
+    "height": 189,
+    "hairColor": "Black",
+    "firstLocation": "Karakura Town",
+    "status": "Alive",
+    "image": "assets/images/icons/love_aikawa.jpg"
+  },
+  {
+    "id": 40,
+    "name": "Rose Otoribashi",
+    "aliases": [
+      "Rose"
+    ],
+    "gender": "Male",
+    "ageGroup": "101-500",
+    "race": [
+      "Shinigami",
+      "Visored"
+    ],
+    "height": 187,
+    "hairColor": "Blonde",
+    "firstLocation": "Soul Society",
+    "status": "Alive",
+    "image": "assets/images/icons/rose_otoribashi.jpg"
+  },
+  {
+    "id": 41,
+    "name": "Lisa Yadomaru",
+    "aliases": [
+      "Lisa"
+    ],
+    "gender": "Female",
+    "ageGroup": "101-500",
+    "race": [
+      "Shinigami",
+      "Visored"
+    ],
+    "height": 162,
+    "hairColor": "Black",
+    "firstLocation": "Soul Society",
+    "status": "Alive",
+    "image": "assets/images/icons/lisa_yadomaru.jpg"
+  },
+  {
+    "id": 42,
+    "name": "Mashiro Kuna",
+    "aliases": [
+      "Mashiro"
+    ],
+    "gender": "Female",
+    "ageGroup": "101-500",
+    "race": [
+      "Shinigami",
+      "Visored"
+    ],
+    "height": 153,
+    "hairColor": "Green",
+    "firstLocation": "Soul Society",
+    "status": "Alive",
+    "image": "assets/images/icons/mashiro_kuna.jpg"
+  },
+  {
+    "id": 43,
+    "name": "Kensei Muguruma",
+    "aliases": [
+      "Kensei"
+    ],
+    "gender": "Male",
+    "ageGroup": "101-500",
+    "race": [
+      "Shinigami",
+      "Visored"
+    ],
+    "height": 179,
+    "hairColor": "Silver",
+    "firstLocation": "Soul Society",
+    "status": "Alive",
+    "image": "assets/images/icons/kensei_muguruma.jpg"
+  },
+  {
+    "id": 44,
+    "name": "Grimmjow Jaegerjaquez",
+    "aliases": [
+      "Grimmjow"
+    ],
+    "gender": "Male",
+    "ageGroup": "101-500",
+    "race": [
+      "Arrancar",
+      "Hollow"
+    ],
+    "height": 186,
+    "hairColor": "Blue",
+    "firstLocation": "Hueco Mundo",
+    "status": "Alive",
+    "image": "assets/images/icons/grimmjow_jaegerjaquez.jpg"
+  },
+  {
+    "id": 45,
+    "name": "Ulquiorra Cifer",
+    "aliases": [
+      "Ulquiorra"
+    ],
+    "gender": "Male",
+    "ageGroup": "101-500",
+    "race": [
+      "Arrancar",
+      "Hollow"
+    ],
+    "height": 168,
+    "hairColor": "Black",
+    "firstLocation": "Hueco Mundo",
+    "status": "Deceased",
+    "image": "assets/images/icons/ulquiorra_cifer.jpg"
+  },
+  {
+    "id": 46,
+    "name": "Coyote Starrk",
+    "aliases": [
+      "Starrk"
+    ],
+    "gender": "Male",
+    "ageGroup": "101-500",
+    "race": [
+      "Arrancar",
+      "Hollow"
+    ],
+    "height": 187,
+    "hairColor": "Brown",
+    "firstLocation": "Hueco Mundo",
+    "status": "Deceased",
+    "image": "assets/images/icons/coyote_starrk.jpg"
+  },
+  {
+    "id": 47,
+    "name": "Lilynette Gingerbuck",
+    "aliases": [
+      "Lilynette"
+    ],
+    "gender": "Female",
+    "ageGroup": "101-500",
+    "race": [
+      "Arrancar",
+      "Hollow"
+    ],
+    "height": 142,
+    "hairColor": "Light Green",
+    "firstLocation": "Hueco Mundo",
+    "status": "Deceased",
+    "image": "assets/images/icons/lilynette_gingerbuck.jpg"
+  },
+  {
+    "id": 48,
+    "name": "Tier Harribel",
+    "aliases": [
+      "Harribel"
+    ],
+    "gender": "Female",
+    "ageGroup": "101-500",
+    "race": [
+      "Arrancar",
+      "Hollow"
+    ],
+    "height": 175,
+    "hairColor": "Blonde",
+    "firstLocation": "Hueco Mundo",
+    "status": "Alive",
+    "image": "assets/images/icons/tier_harribel.jpg"
+  },
+  {
+    "id": 49,
+    "name": "Barragan Louisenbairn",
+    "aliases": [
+      "Barragan"
+    ],
+    "gender": "Male",
+    "ageGroup": "501+",
+    "race": [
+      "Arrancar",
+      "Hollow"
+    ],
+    "height": 166,
+    "hairColor": "White",
+    "firstLocation": "Hueco Mundo",
+    "status": "Deceased",
+    "image": "assets/images/icons/barragan_louisenbairn.jpg"
+  },
+  {
+    "id": 50,
+    "name": "Nnoitra Gilga",
+    "aliases": [
+      "Nnoitra"
+    ],
+    "gender": "Male",
+    "ageGroup": "101-500",
+    "race": [
+      "Arrancar",
+      "Hollow"
+    ],
+    "height": 215,
+    "hairColor": "Black",
+    "firstLocation": "Hueco Mundo",
+    "status": "Deceased",
+    "image": "assets/images/icons/nnoitra_gilga.jpg"
+  },
+  {
+    "id": 51,
+    "name": "Szayelaporro Granz",
+    "aliases": [
+      "Szayelaporro"
+    ],
+    "gender": "Male",
+    "ageGroup": "101-500",
+    "race": [
+      "Arrancar",
+      "Hollow"
+    ],
+    "height": 185,
+    "hairColor": "Pink",
+    "firstLocation": "Hueco Mundo",
+    "status": "Deceased",
+    "image": "assets/images/icons/szayelaporro_granz.jpg"
+  },
+  {
+    "id": 52,
+    "name": "Zommari Rureaux",
+    "aliases": [
+      "Zommari"
+    ],
+    "gender": "Male",
+    "ageGroup": "101-500",
+    "race": [
+      "Arrancar",
+      "Hollow"
+    ],
+    "height": 196,
+    "hairColor": "Bald",
+    "firstLocation": "Hueco Mundo",
+    "status": "Deceased",
+    "image": "assets/images/icons/zommari_rureaux.jpg"
+  },
+  {
+    "id": 53,
+    "name": "Aaroniero Arruruerie",
+    "aliases": [
+      "Aaroniero"
+    ],
+    "gender": "Male",
+    "ageGroup": "101-500",
+    "race": [
+      "Arrancar",
+      "Hollow"
+    ],
+    "height": 205,
+    "hairColor": "None",
+    "firstLocation": "Hueco Mundo",
+    "status": "Deceased",
+    "image": "assets/images/icons/aaroniero_arruruerie.jpg"
+  },
+  {
+    "id": 54,
+    "name": "Yammy Llargo",
+    "aliases": [
+      "Yammy"
+    ],
+    "gender": "Male",
+    "ageGroup": "101-500",
+    "race": [
+      "Arrancar",
+      "Hollow"
+    ],
+    "height": 230,
+    "hairColor": "Black",
+    "firstLocation": "Hueco Mundo",
+    "status": "Deceased",
+    "image": "assets/images/icons/yammy_llargo.jpg"
+  },
+  {
+    "id": 55,
+    "name": "Nelliel Tu Odelschwanck",
+    "aliases": [
+      "Nel",
+      "Nelliel"
+    ],
+    "gender": "Female",
+    "ageGroup": "101-500",
+    "race": [
+      "Arrancar",
+      "Hollow"
+    ],
+    "height": 176,
+    "hairColor": "Green",
+    "firstLocation": "Hueco Mundo",
+    "status": "Alive",
+    "image": "assets/images/icons/nelliel_tu_odelschwanck.jpg"
+  },
+  {
+    "id": 56,
+    "name": "Pesche Guatiche",
+    "aliases": [
+      "Pesche"
+    ],
+    "gender": "Male",
+    "ageGroup": "101-500",
+    "race": [
+      "Arrancar",
+      "Hollow"
+    ],
+    "height": 175,
+    "hairColor": "None",
+    "firstLocation": "Hueco Mundo",
+    "status": "Alive",
+    "image": "assets/images/icons/pesche_guatiche.jpg"
+  },
+  {
+    "id": 57,
+    "name": "Dondochakka Birstanne",
+    "aliases": [
+      "Dondochakka"
+    ],
+    "gender": "Male",
+    "ageGroup": "101-500",
+    "race": [
+      "Arrancar",
+      "Hollow"
+    ],
+    "height": 204,
+    "hairColor": "None",
+    "firstLocation": "Hueco Mundo",
+    "status": "Alive",
+    "image": "assets/images/icons/dondochakka_birstanne.jpg"
+  },
+  {
+    "id": 58,
+    "name": "Luppi Antenor",
+    "aliases": [
+      "Luppi"
+    ],
+    "gender": "Male",
+    "ageGroup": "101-500",
+    "race": [
+      "Arrancar",
+      "Hollow"
+    ],
+    "height": 161,
+    "hairColor": "Black",
+    "firstLocation": "Hueco Mundo",
+    "status": "Deceased",
+    "image": "assets/images/icons/luppi_antenor.jpg"
+  },
+  {
+    "id": 59,
+    "name": "Wonderweiss Margela",
+    "aliases": [
+      "Wonderweiss"
+    ],
+    "gender": "Male",
+    "ageGroup": "0-100",
+    "race": [
+      "Arrancar",
+      "Hollow"
+    ],
+    "height": 177,
+    "hairColor": "Blonde",
+    "firstLocation": "Hueco Mundo",
+    "status": "Deceased",
+    "image": "assets/images/icons/wonderweiss_margela.jpg"
+  },
+  {
+    "id": 60,
+    "name": "Shawlong Koufang",
+    "aliases": [
+      "Shawlong"
+    ],
+    "gender": "Male",
+    "ageGroup": "101-500",
+    "race": [
+      "Arrancar",
+      "Hollow"
+    ],
+    "height": 190,
+    "hairColor": "Blonde",
+    "firstLocation": "Hueco Mundo",
+    "status": "Deceased",
+    "image": "assets/images/icons/shawlong_koufang.jpg"
+  },
+  {
+    "id": 61,
+    "name": "Edrad Liones",
+    "aliases": [
+      "Edrad"
+    ],
+    "gender": "Male",
+    "ageGroup": "101-500",
+    "race": [
+      "Arrancar",
+      "Hollow"
+    ],
+    "height": 200,
+    "hairColor": "Red",
+    "firstLocation": "Hueco Mundo",
+    "status": "Deceased",
+    "image": "assets/images/icons/edrad_liones.jpg"
+  },
+  {
+    "id": 62,
+    "name": "Yylfordt Granz",
+    "aliases": [
+      "Yylfordt"
+    ],
+    "gender": "Male",
+    "ageGroup": "101-500",
+    "race": [
+      "Arrancar",
+      "Hollow"
+    ],
+    "height": 182,
+    "hairColor": "Blonde",
+    "firstLocation": "Hueco Mundo",
+    "status": "Deceased",
+    "image": "assets/images/icons/yylfordt_granz.jpg"
+  },
+  {
+    "id": 63,
+    "name": "Di Roy Rinker",
+    "aliases": [
+      "Di Roy"
+    ],
+    "gender": "Male",
+    "ageGroup": "101-500",
+    "race": [
+      "Arrancar",
+      "Hollow"
+    ],
+    "height": 168,
+    "hairColor": "Light Blue",
+    "firstLocation": "Hueco Mundo",
+    "status": "Deceased",
+    "image": "assets/images/icons/di_roy_rinker.jpg"
+  },
+  {
+    "id": 64,
+    "name": "Kukaku Shiba",
+    "aliases": [
+      "Kukaku"
+    ],
+    "gender": "Female",
+    "ageGroup": "101-500",
+    "race": [
+      "Soul"
+    ],
+    "height": 168,
+    "hairColor": "Black",
+    "firstLocation": "Soul Society",
+    "status": "Alive",
+    "image": "assets/images/icons/kukaku_shiba.jpg"
+  },
+  {
+    "id": 65,
+    "name": "Ganju Shiba",
+    "aliases": [
+      "Ganju"
+    ],
+    "gender": "Male",
+    "ageGroup": "0-100",
+    "race": [
+      "Soul"
+    ],
+    "height": 182,
+    "hairColor": "Black",
+    "firstLocation": "Soul Society",
+    "status": "Alive",
+    "image": "assets/images/icons/ganju_shiba.jpg"
+  },
+  {
+    "id": 66,
+    "name": "Yhwach",
+    "aliases": [
+      "Juha Bach"
+    ],
+    "gender": "Male",
+    "ageGroup": "501+",
+    "race": [
+      "Quincy"
+    ],
+    "height": 200,
+    "hairColor": "Black",
+    "firstLocation": "Vandenreich",
+    "status": "Deceased",
+    "image": "assets/images/icons/yhwach.jpg"
+  },
+  {
+    "id": 67,
+    "name": "Jugram Haschwalth",
+    "aliases": [
+      "Haschwalth"
+    ],
+    "gender": "Male",
+    "ageGroup": "501+",
+    "race": [
+      "Quincy"
+    ],
+    "height": 185,
+    "hairColor": "Blonde",
+    "firstLocation": "Vandenreich",
+    "status": "Deceased",
+    "image": "assets/images/icons/jugram_haschwalth.jpg"
+  },
+  {
+    "id": 68,
+    "name": "Askin Nakk Le Vaar",
+    "aliases": [
+      "Askin"
+    ],
+    "gender": "Male",
+    "ageGroup": "101-500",
+    "race": [
+      "Quincy"
+    ],
+    "height": 180,
+    "hairColor": "Black",
+    "firstLocation": "Vandenreich",
+    "status": "Deceased",
+    "image": "assets/images/icons/askin_nakk_le_vaar.jpg"
+  },
+  {
+    "id": 69,
+    "name": "Bambietta Basterbine",
+    "aliases": [
+      "Bambietta"
+    ],
+    "gender": "Female",
+    "ageGroup": "101-500",
+    "race": [
+      "Quincy"
+    ],
+    "height": 162,
+    "hairColor": "Black",
+    "firstLocation": "Vandenreich",
+    "status": "Deceased",
+    "image": "assets/images/icons/bambietta_basterbine.jpg"
+  },
+  {
+    "id": 70,
+    "name": "Bazz-B",
+    "aliases": [
+      "Bazz"
+    ],
+    "gender": "Male",
+    "ageGroup": "501+",
+    "race": [
+      "Quincy"
+    ],
+    "height": 182,
+    "hairColor": "Pink",
+    "firstLocation": "Vandenreich",
+    "status": "Deceased",
+    "image": "assets/images/icons/bazz-b.jpg"
+  },
+  {
+    "id": 71,
+    "name": "Cang Du",
+    "aliases": [
+      "Cang"
+    ],
+    "gender": "Male",
+    "ageGroup": "101-500",
+    "race": [
+      "Quincy"
+    ],
+    "height": 173,
+    "hairColor": "Black",
+    "firstLocation": "Vandenreich",
+    "status": "Deceased",
+    "image": "assets/images/icons/cang_du.jpg"
+  },
+  {
+    "id": 72,
+    "name": "Quilge Opie",
+    "aliases": [
+      "Quilge"
+    ],
+    "gender": "Male",
+    "ageGroup": "101-500",
+    "race": [
+      "Quincy"
+    ],
+    "height": 181,
+    "hairColor": "Blonde",
+    "firstLocation": "Vandenreich",
+    "status": "Deceased",
+    "image": "assets/images/icons/quilge_opie.jpg"
+  },
+  {
+    "id": 73,
+    "name": "BG9",
+    "aliases": [
+      "BG9"
+    ],
+    "gender": "Male",
+    "ageGroup": "101-500",
+    "race": [
+      "Quincy",
+      "Cyborg"
+    ],
+    "height": 190,
+    "hairColor": "None",
+    "firstLocation": "Vandenreich",
+    "status": "Deceased",
+    "image": "assets/images/icons/bg9.jpg"
+  },
+  {
+    "id": 74,
+    "name": "Gerard Valkyrie",
+    "aliases": [
+      "Gerard"
+    ],
+    "gender": "Male",
+    "ageGroup": "501+",
+    "race": [
+      "Quincy"
+    ],
+    "height": 220,
+    "hairColor": "Blonde",
+    "firstLocation": "Vandenreich",
+    "status": "Deceased",
+    "image": "assets/images/icons/gerard_valkyrie.jpg"
+  },
+  {
+    "id": 75,
+    "name": "Lille Barro",
+    "aliases": [
+      "Lille"
+    ],
+    "gender": "Male",
+    "ageGroup": "501+",
+    "race": [
+      "Quincy"
+    ],
+    "height": 189,
+    "hairColor": "White",
+    "firstLocation": "Vandenreich",
+    "status": "Deceased",
+    "image": "assets/images/icons/lille_barro.jpg"
+  },
+  {
+    "id": 76,
+    "name": "Pernida Parnkgjas",
+    "aliases": [
+      "Pernida"
+    ],
+    "gender": "Unknown",
+    "ageGroup": "501+",
+    "race": [
+      "Quincy"
+    ],
+    "height": 300,
+    "hairColor": "None",
+    "firstLocation": "Vandenreich",
+    "status": "Deceased",
+    "image": "assets/images/icons/pernida_parnkgjas.jpg"
+  },
+  {
+    "id": 77,
+    "name": "As Nodt",
+    "aliases": [
+      "As Nodt"
+    ],
+    "gender": "Male",
+    "ageGroup": "101-500",
+    "race": [
+      "Quincy"
+    ],
+    "height": 178,
+    "hairColor": "Black",
+    "firstLocation": "Vandenreich",
+    "status": "Deceased",
+    "image": "assets/images/icons/as_nodt.jpg"
+  },
+  {
+    "id": 78,
+    "name": "Liltotto Lamperd",
+    "aliases": [
+      "Liltotto"
+    ],
+    "gender": "Female",
+    "ageGroup": "0-100",
+    "race": [
+      "Quincy"
+    ],
+    "height": 145,
+    "hairColor": "Blonde",
+    "firstLocation": "Vandenreich",
+    "status": "Alive",
+    "image": "assets/images/icons/liltotto_lamperd.jpg"
+  },
+  {
+    "id": 79,
+    "name": "Giselle Gewelle",
+    "aliases": [
+      "Giselle"
+    ],
+    "gender": "Female",
+    "ageGroup": "101-500",
+    "race": [
+      "Quincy"
+    ],
+    "height": 158,
+    "hairColor": "Black",
+    "firstLocation": "Vandenreich",
+    "status": "Alive",
+    "image": "assets/images/icons/giselle_gewelle.jpg"
+  },
+  {
+    "id": 80,
+    "name": "Meninas McAllon",
+    "aliases": [
+      "Meninas"
+    ],
+    "gender": "Female",
+    "ageGroup": "101-500",
+    "race": [
+      "Quincy"
+    ],
+    "height": 166,
+    "hairColor": "Pink",
+    "firstLocation": "Vandenreich",
+    "status": "Alive",
+    "image": "assets/images/icons/meninas_mcallon.jpg"
+  },
+  {
+    "id": 81,
+    "name": "Candice Catnipp",
+    "aliases": [
+      "Candice"
+    ],
+    "gender": "Female",
+    "ageGroup": "101-500",
+    "race": [
+      "Quincy"
+    ],
+    "height": 168,
+    "hairColor": "Green",
+    "firstLocation": "Vandenreich",
+    "status": "Alive",
+    "image": "assets/images/icons/candice_catnipp.jpg"
+  },
+  {
+    "id": 82,
+    "name": "Mask De Masculine",
+    "aliases": [
+      "Mask"
+    ],
+    "gender": "Male",
+    "ageGroup": "101-500",
+    "race": [
+      "Quincy"
+    ],
+    "height": 201,
+    "hairColor": "Brown",
+    "firstLocation": "Vandenreich",
+    "status": "Deceased",
+    "image": "assets/images/icons/mask_de_masculine.jpg"
+  },
+  {
+    "id": 83,
+    "name": "Nianzol Weizol",
+    "aliases": [
+      "Nianzol"
+    ],
+    "gender": "Male",
+    "ageGroup": "101-500",
+    "race": [
+      "Quincy"
+    ],
+    "height": 170,
+    "hairColor": "Black",
+    "firstLocation": "Vandenreich",
+    "status": "Deceased",
+    "image": "assets/images/icons/nianzol_weizol.jpg"
+  },
+  {
+    "id": 84,
+    "name": "Robert Accutrone",
+    "aliases": [
+      "Robert"
+    ],
+    "gender": "Male",
+    "ageGroup": "501+",
+    "race": [
+      "Quincy"
+    ],
+    "height": 178,
+    "hairColor": "Grey",
+    "firstLocation": "Vandenreich",
+    "status": "Deceased",
+    "image": "assets/images/icons/robert_accutrone.jpg"
+  },
+  {
+    "id": 85,
+    "name": "Gremmy Thoumeaux",
+    "aliases": [
+      "Gremmy"
+    ],
+    "gender": "Male",
+    "ageGroup": "0-100",
+    "race": [
+      "Quincy"
+    ],
+    "height": 152,
+    "hairColor": "Blonde",
+    "firstLocation": "Vandenreich",
+    "status": "Deceased",
+    "image": "assets/images/icons/gremmy_thoumeaux.jpg"
+  },
+  {
+    "id": 86,
+    "name": "Kugo Ginjo",
+    "aliases": [
+      "Ginjo"
+    ],
+    "gender": "Male",
+    "ageGroup": "0-100",
+    "race": [
+      "Fullbringer",
+      "Human",
+      "Shinigami"
+    ],
+    "height": 187,
+    "hairColor": "Brown",
+    "firstLocation": "Karakura Town",
+    "status": "Alive",
+    "image": "assets/images/icons/kugo_ginjo.jpg"
+  },
+  {
+    "id": 87,
+    "name": "Shukuro Tsukishima",
+    "aliases": [
+      "Tsukishima"
+    ],
+    "gender": "Male",
+    "ageGroup": "0-100",
+    "race": [
+      "Fullbringer",
+      "Human"
+    ],
+    "height": 198,
+    "hairColor": "Black",
+    "firstLocation": "Karakura Town",
+    "status": "Alive",
+    "image": "assets/images/icons/shukuro_tsukishima.jpg"
+  },
+  {
+    "id": 88,
+    "name": "Riruka Dokugamine",
+    "aliases": [
+      "Riruka"
+    ],
+    "gender": "Female",
+    "ageGroup": "0-100",
+    "race": [
+      "Fullbringer",
+      "Human"
+    ],
+    "height": 156,
+    "hairColor": "Pink",
+    "firstLocation": "Karakura Town",
+    "status": "Alive",
+    "image": "assets/images/icons/riruka_dokugamine.jpg"
+  },
+  {
+    "id": 89,
+    "name": "Yukio Hans Vorarlberna",
+    "aliases": [
+      "Yukio"
+    ],
+    "gender": "Male",
+    "ageGroup": "0-100",
+    "race": [
+      "Fullbringer",
+      "Human"
+    ],
+    "height": 154,
+    "hairColor": "Blonde",
+    "firstLocation": "Karakura Town",
+    "status": "Alive",
+    "image": "assets/images/icons/yukio_hans_vorarlberna.jpg"
+  },
+  {
+    "id": 90,
+    "name": "Jackie Tristan",
+    "aliases": [
+      "Jackie"
+    ],
+    "gender": "Female",
+    "ageGroup": "0-100",
+    "race": [
+      "Fullbringer",
+      "Human"
+    ],
+    "height": 170,
+    "hairColor": "Black",
+    "firstLocation": "Karakura Town",
+    "status": "Alive",
+    "image": "assets/images/icons/jackie_tristan.jpg"
+  },
+  {
+    "id": 91,
+    "name": "Giriko Kutsuzawa",
+    "aliases": [
+      "Giriko"
+    ],
+    "gender": "Male",
+    "ageGroup": "0-100",
+    "race": [
+      "Fullbringer",
+      "Human"
+    ],
+    "height": 182,
+    "hairColor": "Grey",
+    "firstLocation": "Karakura Town",
+    "status": "Alive",
+    "image": "assets/images/icons/giriko_kutsuzawa.jpg"
+  },
+  {
+    "id": 92,
+    "name": "Moe Shishigawara",
+    "aliases": [
+      "Shishigawara"
+    ],
+    "gender": "Male",
+    "ageGroup": "0-100",
+    "race": [
+      "Fullbringer",
+      "Human"
+    ],
+    "height": 172,
+    "hairColor": "Black",
+    "firstLocation": "Karakura Town",
+    "status": "Alive",
+    "image": "assets/images/icons/moe_shishigawara.jpg"
+  },
+  {
+    "id": 93,
+    "name": "Ichibe Hyosube",
+    "aliases": [
+      "Ichibe"
+    ],
+    "gender": "Male",
+    "ageGroup": "501+",
+    "race": [
+      "Shinigami"
+    ],
+    "height": 205,
+    "hairColor": "Bald",
+    "firstLocation": "Soul King Palace",
+    "status": "Alive",
+    "image": "assets/images/icons/ichibe_hyosube.jpg"
+  },
+  {
+    "id": 94,
+    "name": "Nimaiya Oetsu",
+    "aliases": [
+      "Oetsu"
+    ],
+    "gender": "Male",
+    "ageGroup": "501+",
+    "race": [
+      "Shinigami"
+    ],
+    "height": 180,
+    "hairColor": "Black",
+    "firstLocation": "Soul King Palace",
+    "status": "Alive",
+    "image": "assets/images/icons/nimaiya_oetsu.jpg"
+  },
+  {
+    "id": 95,
+    "name": "Tenjiro Kirinji",
+    "aliases": [
+      "Tenjiro"
+    ],
+    "gender": "Male",
+    "ageGroup": "501+",
+    "race": [
+      "Shinigami"
+    ],
+    "height": 195,
+    "hairColor": "Black",
+    "firstLocation": "Soul King Palace",
+    "status": "Alive",
+    "image": "assets/images/icons/tenjiro_kirinji.jpg"
+  },
+  {
+    "id": 96,
+    "name": "Kirio Hikifune",
+    "aliases": [
+      "Kirio"
+    ],
+    "gender": "Female",
+    "ageGroup": "501+",
+    "race": [
+      "Shinigami"
+    ],
+    "height": 175,
+    "hairColor": "Purple",
+    "firstLocation": "Soul King Palace",
+    "status": "Alive",
+    "image": "assets/images/icons/kirio_hikifune.jpg"
+  },
+  {
+    "id": 97,
+    "name": "Senjumaru Shutara",
+    "aliases": [
+      "Senjumaru"
+    ],
+    "gender": "Female",
+    "ageGroup": "501+",
+    "race": [
+      "Shinigami"
+    ],
+    "height": 165,
+    "hairColor": "Black",
+    "firstLocation": "Soul King Palace",
+    "status": "Alive",
+    "image": "assets/images/icons/senjumaru_shutara.jpg"
+  },
+  {
+    "id": 98,
+    "name": "Isshin Kurosaki",
+    "aliases": [
+      "Isshin"
+    ],
+    "gender": "Male",
+    "ageGroup": "501+",
+    "race": [
+      "Shinigami",
+      "Human"
+    ],
+    "height": 186,
+    "hairColor": "Black",
+    "firstLocation": "Karakura Town",
+    "status": "Alive",
+    "image": "assets/images/icons/isshin_kurosaki.jpg"
+  },
+  {
+    "id": 99,
+    "name": "Ryuken Ishida",
+    "aliases": [
+      "Ryuken"
+    ],
+    "gender": "Male",
+    "ageGroup": "0-100",
+    "race": [
+      "Quincy"
+    ],
+    "height": 178,
+    "hairColor": "Silver",
+    "firstLocation": "Karakura Town",
+    "status": "Alive",
+    "image": "assets/images/icons/ryuken_ishida.jpg"
+  },
+  {
+    "id": 100,
+    "name": "Masaki Kurosaki",
+    "aliases": [
+      "Masaki"
+    ],
+    "gender": "Female",
+    "ageGroup": "0-100",
+    "race": [
+      "Quincy"
+    ],
+    "height": 167,
+    "hairColor": "Brown",
+    "firstLocation": "Karakura Town",
+    "status": "Deceased",
+    "image": "assets/images/icons/masaki_kurosaki.jpg"
+  },
+  {
+    "id": 101,
+    "name": "Karin Kurosaki",
+    "aliases": [
+      "Karin"
+    ],
+    "gender": "Female",
+    "ageGroup": "0-100",
+    "race": [
+      "Human"
+    ],
+    "height": 142,
+    "hairColor": "Black",
+    "firstLocation": "Karakura Town",
+    "status": "Alive",
+    "image": "assets/images/icons/karin_kurosaki.jpg"
+  },
+  {
+    "id": 102,
+    "name": "Yuzu Kurosaki",
+    "aliases": [
+      "Yuzu"
+    ],
+    "gender": "Female",
+    "ageGroup": "0-100",
+    "race": [
+      "Human"
+    ],
+    "height": 142,
+    "hairColor": "Blonde",
+    "firstLocation": "Karakura Town",
+    "status": "Alive",
+    "image": "assets/images/icons/yuzu_kurosaki.jpg"
+  },
+  {
+    "id": 103,
+    "name": "Tatsuki Arisawa",
+    "aliases": [
+      "Tatsuki"
+    ],
+    "gender": "Female",
+    "ageGroup": "0-100",
+    "race": [
+      "Human"
+    ],
+    "height": 155,
+    "hairColor": "Black",
+    "firstLocation": "Karakura Town",
+    "status": "Alive",
+    "image": "assets/images/icons/tatsuki_arisawa.jpg"
+  },
+  {
+    "id": 104,
+    "name": "Keigo Asano",
+    "aliases": [
+      "Keigo"
+    ],
+    "gender": "Male",
+    "ageGroup": "0-100",
+    "race": [
+      "Human"
+    ],
+    "height": 168,
+    "hairColor": "Brown",
+    "firstLocation": "Karakura Town",
+    "status": "Alive",
+    "image": "assets/images/icons/keigo_asano.jpg"
+  },
+  {
+    "id": 105,
+    "name": "Mizuiro Kojima",
+    "aliases": [
+      "Mizuiro"
+    ],
+    "gender": "Male",
+    "ageGroup": "0-100",
+    "race": [
+      "Human"
+    ],
+    "height": 154,
+    "hairColor": "Black",
+    "firstLocation": "Karakura Town",
+    "status": "Alive",
+    "image": "assets/images/icons/mizuiro_kojima.jpg"
+  },
+  {
+    "id": 106,
+    "name": "Jinta Hanakari",
+    "aliases": [
+      "Jinta"
+    ],
+    "gender": "Male",
+    "ageGroup": "0-100",
+    "race": [
+      "Human"
+    ],
+    "height": 143,
+    "hairColor": "Red",
+    "firstLocation": "Karakura Town",
+    "status": "Alive",
+    "image": "assets/images/icons/jinta_hanakari.jpg"
+  },
+  {
+    "id": 107,
+    "name": "Ururu Tsumugiya",
+    "aliases": [
+      "Ururu"
+    ],
+    "gender": "Female",
+    "ageGroup": "0-100",
+    "race": [
+      "Human"
+    ],
+    "height": 141,
+    "hairColor": "Purple",
+    "firstLocation": "Karakura Town",
+    "status": "Alive",
+    "image": "assets/images/icons/ururu_tsumugiya.jpg"
+  },
+  {
+    "id": 108,
+    "name": "Tessai Tsukabishi",
+    "aliases": [
+      "Tessai"
+    ],
+    "gender": "Male",
+    "ageGroup": "501+",
+    "race": [
+      "Shinigami"
+    ],
+    "height": 200,
+    "hairColor": "Black",
+    "firstLocation": "Karakura Town",
+    "status": "Alive",
+    "image": "assets/images/icons/tessai_tsukabishi.jpg"
+  },
+  {
+    "id": 109,
+    "name": "Ashido Kano",
+    "aliases": [
+      "Ashido"
+    ],
+    "gender": "Male",
+    "ageGroup": "101-500",
+    "race": [
+      "Shinigami"
+    ],
+    "height": 182,
+    "hairColor": "Brown",
+    "firstLocation": "Hueco Mundo",
+    "status": "Alive",
+    "image": "assets/images/icons/ashido_kano.jpg"
+  },
+  {
+    "id": 110,
+    "name": "Koga Kuchiki",
+    "aliases": [
+      "Koga"
+    ],
+    "gender": "Male",
+    "ageGroup": "101-500",
+    "race": [
+      "Shinigami"
+    ],
+    "height": 180,
+    "hairColor": "Black",
+    "firstLocation": "Soul Society",
+    "status": "Deceased",
+    "image": "assets/images/icons/koga_kuchiki.jpg"
+  },
+  {
+    "id": 111,
+    "name": "Nozomi Kujo",
+    "aliases": [
+      "Nozomi"
+    ],
+    "gender": "Female",
+    "ageGroup": "0-100",
+    "race": [
+      "Artificial Soul"
+    ],
+    "height": 152,
+    "hairColor": "Green",
+    "firstLocation": "Soul Society",
+    "status": "Deceased",
+    "image": "assets/images/icons/nozomi_kujo.jpg"
+  },
+  {
+    "id": 112,
+    "name": "Ouko Yushima",
+    "aliases": [
+      "Yushima"
+    ],
+    "gender": "Male",
+    "ageGroup": "101-500",
+    "race": [
+      "Shinigami"
+    ],
+    "height": 175,
+    "hairColor": "Green",
+    "firstLocation": "Soul Society",
+    "status": "Deceased",
+    "image": "assets/images/icons/ouko_yushima.jpg"
+  },
+  {
+    "id": 113,
+    "name": "Senna",
+    "aliases": [
+      "Senna"
+    ],
+    "gender": "Female",
+    "ageGroup": "0-100",
+    "race": [
+      "Soul"
+    ],
+    "height": 149,
+    "hairColor": "Purple",
+    "firstLocation": "Karakura Town",
+    "status": "Deceased",
+    "image": "assets/images/icons/senna.jpg"
+  },
+  {
+    "id": 114,
+    "name": "Shusuke Amagai",
+    "aliases": [
+      "Amagai"
+    ],
+    "gender": "Male",
+    "ageGroup": "101-500",
+    "race": [
+      "Shinigami"
+    ],
+    "height": 181,
+    "hairColor": "Brown",
+    "firstLocation": "Soul Society",
+    "status": "Deceased",
+    "image": "assets/images/icons/shusuke_amagai.jpg"
+  }
+]
